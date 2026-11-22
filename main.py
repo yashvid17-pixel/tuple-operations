@@ -1,0 +1,10 @@
+a=(1,2,3,4,5,6,)
+print(a)
+print(len(a))
+print(a[3])
+print(a[1:3])
+b= (9,)
+c=a+b
+print(c)
+print(a[::-1])
+print(a)
